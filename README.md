@@ -35,7 +35,7 @@ This project involves analyzing the Olympics dataset spanning 120 years of histo
  5. **Subqueries:**
         Filtering data based on specified conditions.
 
-# Project Structure
+## Project Structure
 
   1. **data/:** Contains the CSV files 'athletes' and 'athlete_events.'
   2. **scripts/:** SQL scripts for importing data and performing analysis.
