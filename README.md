@@ -24,15 +24,15 @@ This project involves analyzing the Olympics dataset spanning 120 years of histo
 ## SQL Techniques Used for Analysis
 **Key SQL Functions/Concepts Utilized:**
 
-  **Window Functions:**
-        LEAD(), LAG(), ROW_NUMBER(), RANK() for efficient data navigation.
-  ** Aggregation:**
-        GROUP BY, PARTITION BY, HAVING clauses for summarizing data.
-  ** String Aggregation:**
+1. **Window Functions:**
+  LEAD(), LAG(), ROW_NUMBER(), RANK() for efficient data navigation.
+2. **Aggregation:**
+   GROUP BY, PARTITION BY, HAVING clauses for summarizing data.
+3. **String Aggregation:**
         STRING_AGG() for concatenating string values.
-  **Common Table Expressions (CTE):**
+ 4. **Common Table Expressions (CTE):**
         Used to streamline complex queries.
-  **Subqueries:**
+ 5. **Subqueries:**
         Filtering data based on specified conditions.
 
 # Project Structure
