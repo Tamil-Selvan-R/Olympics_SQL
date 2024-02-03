@@ -37,9 +37,9 @@ This project involves analyzing the Olympics dataset spanning 120 years of histo
 
 # Project Structure
 
-  **data/:** Contains the CSV files 'athletes' and 'athlete_events.'
-  **scripts/:** SQL scripts for importing data and performing analysis.
-  ** presentation/:** Presentation slides summarizing key findings.
+  1. **data/:** Contains the CSV files 'athletes' and 'athlete_events.'
+  2. **scripts/:** SQL scripts for importing data and performing analysis.
+  3. **presentation/:** Presentation slides summarizing key findings.
 
 
   Happy Coding!
