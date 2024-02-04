@@ -5,7 +5,7 @@ This project involves analyzing the Olympics dataset spanning 120 years of histo
 
 ## Datasets
 Create a database called Olympics
-Craete 2 tables with [dataset]()
+Craete 2 tables with [dataset](https://github.com/Tamil-Selvan-R/Olympics_SQL/tree/main/DataSet)
 
   **Athletes Dataset:**
         Contains detailed information about all players who participated in the Olympics.
@@ -24,6 +24,7 @@ Craete 2 tables with [dataset]()
 8. Players with Consecutive Gold Medals in Three Summer Olympics
 
 ## SQL Techniques Used for Analysis
+
 **Key SQL Functions/Concepts Utilized:**
 
 1. **Window Functions:**
@@ -43,5 +44,12 @@ Craete 2 tables with [dataset]()
   2. **scripts/:** SQL scripts for importing data and performing analysis.
   3. **presentation/:** Presentation slides summarizing key findings.
 
+## Credits
+
+Throughout the development of this project, I have sought information from a youtube video channel: [Ankit Bansal](https://www.youtube.com/@ankitbansal6)
+
+## Conclusion
+
+The project was successful in analysing diverse aspects of Olympics data, revealing team performance, individual achievements and medal-winning patterns.
 
   Happy Coding!
